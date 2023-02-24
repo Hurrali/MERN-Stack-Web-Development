@@ -1,0 +1,27 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    font-size: 24px;
+}
+p:hover{
+    font-family: monospace;
+}
+#second>p:hover{
+    color: rgb(181, 243, 37);
+}
+#second>p{
+    color: blue;
+}
+#first, #second{
+    color: rgb(129, 129, 129);
+}
+.purple{
+    color: purple ;
+    font-family: monospace;
+}
+.highlight{
+    font-weight: bolder;
+    background-color: yellow;
+    font-style: italic;
+}
