@@ -1,0 +1,11 @@
+p{
+    color: blue;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: 200;
+    font-size: 2em;
+    background-color: #fff;
+}
+body{
+    background-color: rgb(219, 219, 70);
+}
