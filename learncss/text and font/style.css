@@ -1,0 +1,25 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Smokum&family=Tilt+Prism&display=swap'); */
+
+a {
+    text-decoration-style: wavy;
+}
+
+h1 {
+    /* color: transparent;
+    text-shadow: 2px 4px 20px yellowgreen , 4px 8px 20px blue; */
+    font-family: 'Anton', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Shantell Sans', cursive;
+    font-family: 'Smokum', cursive;
+    font-family: 'Tilt Prisms', cursive;
+}
+
+p {
+    font-size: larger;
+    font-weight: 600;
+    font-style: italic;
+    /* font-family: 'Open Sans', sans-serif;
+    font-family: 'Shantell Sans', cursive;
+    font-family: 'Smokum', cursive;
+    font-family: 'Tilt Prism', cursive; */
+}
