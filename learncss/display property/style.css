@@ -1,0 +1,40 @@
+*{
+    /* border: 1px solid red; */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    width: 200px;
+    color: pink;
+    display: inline-block;
+}
+a{
+    display: inline-block;
+    height: 50px;
+    /* anchor tag ko hum height ni dy sakty bcz it is inline element but image ko dy sakty r ye h bi inline elements WHY? 
+    BCZ image is inline-block element */
+    margin: 40px;
+}
+img{
+    height: 200px;
+    display: none;
+}
+ol{
+    list-style: none;
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    color: aqua;
+}
+li{
+    display: inline;
+    padding: 20px;
+}
+li:hover{
+    color: violet;
+    cursor: pointer;
+}
